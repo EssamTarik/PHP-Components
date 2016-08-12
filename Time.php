@@ -65,4 +65,3 @@ class Time{
 
 }
 
-var_dump(Time::timeNow());
