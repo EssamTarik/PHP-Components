@@ -1,6 +1,5 @@
 <?php
-echo "<html>";
-echo "<meta charset='utf8'>";
+
 class DB
 {
 	private static $pdo;
