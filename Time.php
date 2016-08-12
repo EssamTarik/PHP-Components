@@ -2,7 +2,8 @@
 
 
 
-class Time{
+class Time
+{
 	private static $dateTime;
 
 	public function getInstance()
